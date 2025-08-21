@@ -1,0 +1,17 @@
+
+NO	textures/winter_forest.png
+				WE	textures/winter_forest_2.png
+			EA	textures/winter_forest_3.png
+SO	textures/winter_forest_4.png
+
+F 200,100,50
+C 40,0,100
+
+
+11111111111111
+1            1
+11111111111111
+1000000000S001
+11111111111111
+1            1
+11111111111111
