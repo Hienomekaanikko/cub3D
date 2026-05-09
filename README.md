@@ -1,3 +1,5 @@
+For this project AI was used for creating the readme. (Claude)
+
 # cub3D
 
 A raycasting-based 3D game engine written in C, inspired by the rendering technique used in Wolfenstein 3D (1992). The map is a 2D grid, but by casting a ray for every vertical column of the screen and projecting wall heights from the intersection distances, the engine produces a convincing first-person 3D view.
